@@ -1,6 +1,0 @@
-this is the first file
-this is the second commit
-
-changes added 11/19/2014
-
-it comes before all other files
